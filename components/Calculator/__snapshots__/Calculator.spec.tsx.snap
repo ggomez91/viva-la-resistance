@@ -1,0 +1,871 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Calculator renders correctly 1`] = `
+<div>
+  <div>
+    <div
+      className="form-group"
+    >
+      <label
+        htmlFor="first digit"
+      >
+        First digit
+      </label>
+      <select
+        className="form-control"
+        id="first digit"
+        onChange={[Function]}
+        value="none"
+      >
+        <option
+          value={null}
+        >
+          none
+        </option>
+        <option
+          value="pink"
+        >
+          pink
+        </option>
+        <option
+          value="silver"
+        >
+          silver
+        </option>
+        <option
+          value="gold"
+        >
+          gold
+        </option>
+        <option
+          value="black"
+        >
+          black
+        </option>
+        <option
+          value="brown"
+        >
+          brown
+        </option>
+        <option
+          value="red"
+        >
+          red
+        </option>
+        <option
+          value="orange"
+        >
+          orange
+        </option>
+        <option
+          value="yellow"
+        >
+          yellow
+        </option>
+        <option
+          value="green"
+        >
+          green
+        </option>
+        <option
+          value="blue"
+        >
+          blue
+        </option>
+        <option
+          value="violet"
+        >
+          violet
+        </option>
+        <option
+          value="gray"
+        >
+          gray
+        </option>
+        <option
+          value="white"
+        >
+          white
+        </option>
+      </select>
+    </div>
+  </div>
+  <div>
+    <div
+      className="form-group"
+    >
+      <label
+        htmlFor="second digit"
+      >
+        Second digit
+      </label>
+      <select
+        className="form-control"
+        id="second digit"
+        onChange={[Function]}
+        value="none"
+      >
+        <option
+          value={null}
+        >
+          none
+        </option>
+        <option
+          value="pink"
+        >
+          pink
+        </option>
+        <option
+          value="silver"
+        >
+          silver
+        </option>
+        <option
+          value="gold"
+        >
+          gold
+        </option>
+        <option
+          value="black"
+        >
+          black
+        </option>
+        <option
+          value="brown"
+        >
+          brown
+        </option>
+        <option
+          value="red"
+        >
+          red
+        </option>
+        <option
+          value="orange"
+        >
+          orange
+        </option>
+        <option
+          value="yellow"
+        >
+          yellow
+        </option>
+        <option
+          value="green"
+        >
+          green
+        </option>
+        <option
+          value="blue"
+        >
+          blue
+        </option>
+        <option
+          value="violet"
+        >
+          violet
+        </option>
+        <option
+          value="gray"
+        >
+          gray
+        </option>
+        <option
+          value="white"
+        >
+          white
+        </option>
+      </select>
+    </div>
+  </div>
+  <div>
+    <div
+      className="form-group"
+    >
+      <label
+        htmlFor="multiplier"
+      >
+        Multiplier
+      </label>
+      <select
+        className="form-control"
+        id="multiplier"
+        onChange={[Function]}
+        value="none"
+      >
+        <option
+          value={null}
+        >
+          none
+        </option>
+        <option
+          value="pink"
+        >
+          pink
+        </option>
+        <option
+          value="silver"
+        >
+          silver
+        </option>
+        <option
+          value="gold"
+        >
+          gold
+        </option>
+        <option
+          value="black"
+        >
+          black
+        </option>
+        <option
+          value="brown"
+        >
+          brown
+        </option>
+        <option
+          value="red"
+        >
+          red
+        </option>
+        <option
+          value="orange"
+        >
+          orange
+        </option>
+        <option
+          value="yellow"
+        >
+          yellow
+        </option>
+        <option
+          value="green"
+        >
+          green
+        </option>
+        <option
+          value="blue"
+        >
+          blue
+        </option>
+        <option
+          value="violet"
+        >
+          violet
+        </option>
+        <option
+          value="gray"
+        >
+          gray
+        </option>
+        <option
+          value="white"
+        >
+          white
+        </option>
+      </select>
+    </div>
+  </div>
+  <div>
+    <div
+      className="form-group"
+    >
+      <label
+        htmlFor="tolerance"
+      >
+        Tolerance
+      </label>
+      <select
+        className="form-control"
+        id="tolerance"
+        onChange={[Function]}
+        value="none"
+      >
+        <option
+          value={null}
+        >
+          none
+        </option>
+        <option
+          value="pink"
+        >
+          pink
+        </option>
+        <option
+          value="silver"
+        >
+          silver
+        </option>
+        <option
+          value="gold"
+        >
+          gold
+        </option>
+        <option
+          value="black"
+        >
+          black
+        </option>
+        <option
+          value="brown"
+        >
+          brown
+        </option>
+        <option
+          value="red"
+        >
+          red
+        </option>
+        <option
+          value="orange"
+        >
+          orange
+        </option>
+        <option
+          value="yellow"
+        >
+          yellow
+        </option>
+        <option
+          value="green"
+        >
+          green
+        </option>
+        <option
+          value="blue"
+        >
+          blue
+        </option>
+        <option
+          value="violet"
+        >
+          violet
+        </option>
+        <option
+          value="gray"
+        >
+          gray
+        </option>
+        <option
+          value="white"
+        >
+          white
+        </option>
+      </select>
+    </div>
+  </div>
+  <hr />
+  <div>
+    <div>
+      <select
+        className="selectpicker"
+        onChange={[Function]}
+        style={
+          Object {
+            "backgroundColor": "transparent",
+          }
+        }
+        title="Select your surfboard"
+        value="none"
+      >
+        <option
+          style={
+            Object {
+              "backgroundColor": "pink",
+            }
+          }
+          value="pink"
+        />
+        <option
+          style={
+            Object {
+              "backgroundColor": "silver",
+            }
+          }
+          value="silver"
+        />
+        <option
+          style={
+            Object {
+              "backgroundColor": "gold",
+            }
+          }
+          value="gold"
+        />
+        <option
+          style={
+            Object {
+              "backgroundColor": "black",
+            }
+          }
+          value="black"
+        />
+        <option
+          style={
+            Object {
+              "backgroundColor": "brown",
+            }
+          }
+          value="brown"
+        />
+        <option
+          style={
+            Object {
+              "backgroundColor": "red",
+            }
+          }
+          value="red"
+        />
+        <option
+          style={
+            Object {
+              "backgroundColor": "orange",
+            }
+          }
+          value="orange"
+        />
+        <option
+          style={
+            Object {
+              "backgroundColor": "yellow",
+            }
+          }
+          value="yellow"
+        />
+        <option
+          style={
+            Object {
+              "backgroundColor": "green",
+            }
+          }
+          value="green"
+        />
+        <option
+          style={
+            Object {
+              "backgroundColor": "blue",
+            }
+          }
+          value="blue"
+        />
+        <option
+          style={
+            Object {
+              "backgroundColor": "violet",
+            }
+          }
+          value="violet"
+        />
+        <option
+          style={
+            Object {
+              "backgroundColor": "gray",
+            }
+          }
+          value="gray"
+        />
+        <option
+          style={
+            Object {
+              "backgroundColor": "white",
+            }
+          }
+          value="white"
+        />
+      </select>
+    </div>
+    <div>
+      <select
+        className="selectpicker"
+        onChange={[Function]}
+        style={
+          Object {
+            "backgroundColor": "transparent",
+          }
+        }
+        title="Select your surfboard"
+        value="none"
+      >
+        <option
+          style={
+            Object {
+              "backgroundColor": "pink",
+            }
+          }
+          value="pink"
+        />
+        <option
+          style={
+            Object {
+              "backgroundColor": "silver",
+            }
+          }
+          value="silver"
+        />
+        <option
+          style={
+            Object {
+              "backgroundColor": "gold",
+            }
+          }
+          value="gold"
+        />
+        <option
+          style={
+            Object {
+              "backgroundColor": "black",
+            }
+          }
+          value="black"
+        />
+        <option
+          style={
+            Object {
+              "backgroundColor": "brown",
+            }
+          }
+          value="brown"
+        />
+        <option
+          style={
+            Object {
+              "backgroundColor": "red",
+            }
+          }
+          value="red"
+        />
+        <option
+          style={
+            Object {
+              "backgroundColor": "orange",
+            }
+          }
+          value="orange"
+        />
+        <option
+          style={
+            Object {
+              "backgroundColor": "yellow",
+            }
+          }
+          value="yellow"
+        />
+        <option
+          style={
+            Object {
+              "backgroundColor": "green",
+            }
+          }
+          value="green"
+        />
+        <option
+          style={
+            Object {
+              "backgroundColor": "blue",
+            }
+          }
+          value="blue"
+        />
+        <option
+          style={
+            Object {
+              "backgroundColor": "violet",
+            }
+          }
+          value="violet"
+        />
+        <option
+          style={
+            Object {
+              "backgroundColor": "gray",
+            }
+          }
+          value="gray"
+        />
+        <option
+          style={
+            Object {
+              "backgroundColor": "white",
+            }
+          }
+          value="white"
+        />
+      </select>
+    </div>
+    <div>
+      <select
+        className="selectpicker"
+        onChange={[Function]}
+        style={
+          Object {
+            "backgroundColor": "transparent",
+          }
+        }
+        title="Select your surfboard"
+        value="none"
+      >
+        <option
+          style={
+            Object {
+              "backgroundColor": "pink",
+            }
+          }
+          value="pink"
+        />
+        <option
+          style={
+            Object {
+              "backgroundColor": "silver",
+            }
+          }
+          value="silver"
+        />
+        <option
+          style={
+            Object {
+              "backgroundColor": "gold",
+            }
+          }
+          value="gold"
+        />
+        <option
+          style={
+            Object {
+              "backgroundColor": "black",
+            }
+          }
+          value="black"
+        />
+        <option
+          style={
+            Object {
+              "backgroundColor": "brown",
+            }
+          }
+          value="brown"
+        />
+        <option
+          style={
+            Object {
+              "backgroundColor": "red",
+            }
+          }
+          value="red"
+        />
+        <option
+          style={
+            Object {
+              "backgroundColor": "orange",
+            }
+          }
+          value="orange"
+        />
+        <option
+          style={
+            Object {
+              "backgroundColor": "yellow",
+            }
+          }
+          value="yellow"
+        />
+        <option
+          style={
+            Object {
+              "backgroundColor": "green",
+            }
+          }
+          value="green"
+        />
+        <option
+          style={
+            Object {
+              "backgroundColor": "blue",
+            }
+          }
+          value="blue"
+        />
+        <option
+          style={
+            Object {
+              "backgroundColor": "violet",
+            }
+          }
+          value="violet"
+        />
+        <option
+          style={
+            Object {
+              "backgroundColor": "gray",
+            }
+          }
+          value="gray"
+        />
+        <option
+          style={
+            Object {
+              "backgroundColor": "white",
+            }
+          }
+          value="white"
+        />
+      </select>
+    </div>
+    <div />
+    <div>
+      <select
+        className="selectpicker"
+        onChange={[Function]}
+        style={
+          Object {
+            "backgroundColor": "transparent",
+          }
+        }
+        title="Select your surfboard"
+        value="none"
+      >
+        <option
+          style={
+            Object {
+              "backgroundColor": "pink",
+            }
+          }
+          value="pink"
+        />
+        <option
+          style={
+            Object {
+              "backgroundColor": "silver",
+            }
+          }
+          value="silver"
+        />
+        <option
+          style={
+            Object {
+              "backgroundColor": "gold",
+            }
+          }
+          value="gold"
+        />
+        <option
+          style={
+            Object {
+              "backgroundColor": "black",
+            }
+          }
+          value="black"
+        />
+        <option
+          style={
+            Object {
+              "backgroundColor": "brown",
+            }
+          }
+          value="brown"
+        />
+        <option
+          style={
+            Object {
+              "backgroundColor": "red",
+            }
+          }
+          value="red"
+        />
+        <option
+          style={
+            Object {
+              "backgroundColor": "orange",
+            }
+          }
+          value="orange"
+        />
+        <option
+          style={
+            Object {
+              "backgroundColor": "yellow",
+            }
+          }
+          value="yellow"
+        />
+        <option
+          style={
+            Object {
+              "backgroundColor": "green",
+            }
+          }
+          value="green"
+        />
+        <option
+          style={
+            Object {
+              "backgroundColor": "blue",
+            }
+          }
+          value="blue"
+        />
+        <option
+          style={
+            Object {
+              "backgroundColor": "violet",
+            }
+          }
+          value="violet"
+        />
+        <option
+          style={
+            Object {
+              "backgroundColor": "gray",
+            }
+          }
+          value="gray"
+        />
+        <option
+          style={
+            Object {
+              "backgroundColor": "white",
+            }
+          }
+          value="white"
+        />
+      </select>
+    </div>
+    <div />
+  </div>
+  <div
+    className="row"
+    style={
+      Object {
+        "minHeight": "40px",
+      }
+    }
+  />
+  <div
+    className="row"
+  >
+    <div
+      className="col-sm-6"
+    >
+      <button
+        className="btn btn-secondary"
+        onClick={[Function]}
+      >
+        Reset
+      </button>
+    </div>
+    <div
+      className="col-sm-6"
+    >
+      <button
+        className="btn btn-primary"
+        onClick={[Function]}
+      >
+        Decode
+      </button>
+    </div>
+  </div>
+  <hr />
+  <div
+    className="row"
+  />
+</div>
+`;

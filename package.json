@@ -3,13 +3,36 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "next dev -p 3001",
     "build": "next build",
-    "start": "next start"
+    "start": "next start ",
+    "test": "jest"
   },
   "dependencies": {
+    "@wojtekmaj/enzyme-adapter-react-17": "^0.6.1",
+    "bootstrap": "^5.0.0-beta3",
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-15": "^1.4.3",
+    "enzyme-adapter-react-16": "^1.15.6",
+    "jest": "^26.6.3",
+    "jquery": "^3.6.0",
+    "lodash": "^4.17.21",
     "next": "10.1.3",
+    "popper.js": "^1.16.1",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-bootstrap": "^1.5.2",
+    "react-dom": "17.0.2",
+    "react-test-renderer": "^17.0.2",
+    "sass": "^1.32.11"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.23",
+    "@types/react": "^17.0.3",
+    "typescript": "^4.2.4"
+  },
+  "jest": {
+    "moduleNameMapper": {
+      "\\.(scss|css|jpg|png|gif)$": "<rootDir>/file.mock.js"
+    }
   }
 }

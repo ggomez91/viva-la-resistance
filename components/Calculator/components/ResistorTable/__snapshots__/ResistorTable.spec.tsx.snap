@@ -1,0 +1,59 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ResistorTable renders correctly 1`] = `
+<div>
+  <table
+    className="table"
+  >
+    <thead>
+      <tr>
+        <th
+          scope="col"
+        >
+          Resistance
+        </th>
+        <th
+          scope="col"
+        >
+          Tolerance
+        </th>
+        <th
+          scope="col"
+        >
+          Minimum
+        </th>
+        <th
+          scope="col"
+        >
+          Maximum
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          50
+           ohms
+        </td>
+        <td>
+          ± 
+          34
+           % 
+        </td>
+        <td
+          data-testid="min"
+        >
+          33
+           ohms
+        </td>
+        <td
+          data-testid="max"
+        >
+          67
+           ohms
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;

@@ -1,0 +1,121 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ColorSelect renders correctly 1`] = `
+<div>
+  <select
+    className="selectpicker"
+    onChange={[Function]}
+    style={
+      Object {
+        "backgroundColor": "transparent",
+      }
+    }
+    title="Select your surfboard"
+  >
+    <option
+      style={
+        Object {
+          "backgroundColor": "pink",
+        }
+      }
+      value="pink"
+    />
+    <option
+      style={
+        Object {
+          "backgroundColor": "silver",
+        }
+      }
+      value="silver"
+    />
+    <option
+      style={
+        Object {
+          "backgroundColor": "gold",
+        }
+      }
+      value="gold"
+    />
+    <option
+      style={
+        Object {
+          "backgroundColor": "black",
+        }
+      }
+      value="black"
+    />
+    <option
+      style={
+        Object {
+          "backgroundColor": "brown",
+        }
+      }
+      value="brown"
+    />
+    <option
+      style={
+        Object {
+          "backgroundColor": "red",
+        }
+      }
+      value="red"
+    />
+    <option
+      style={
+        Object {
+          "backgroundColor": "orange",
+        }
+      }
+      value="orange"
+    />
+    <option
+      style={
+        Object {
+          "backgroundColor": "yellow",
+        }
+      }
+      value="yellow"
+    />
+    <option
+      style={
+        Object {
+          "backgroundColor": "green",
+        }
+      }
+      value="green"
+    />
+    <option
+      style={
+        Object {
+          "backgroundColor": "blue",
+        }
+      }
+      value="blue"
+    />
+    <option
+      style={
+        Object {
+          "backgroundColor": "violet",
+        }
+      }
+      value="violet"
+    />
+    <option
+      style={
+        Object {
+          "backgroundColor": "gray",
+        }
+      }
+      value="gray"
+    />
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value="white"
+    />
+  </select>
+</div>
+`;
